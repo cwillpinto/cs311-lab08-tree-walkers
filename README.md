@@ -23,4 +23,4 @@ Complete `search`, `inorder`, `preorder`, `postorder`, and `to_json` in `seriali
 
 ## Submit in Blackboard
 
-Follow the published Lab 8 submission contract: `Lab8_Theory.pdf` or `.md`, your completed `serialize_tree.py`, and the success token from your run. Keep your completed code in your own repository. Include that repository URL with your submission so the instructor can find the exact code you ran.
+Follow the published Lab 8 submission contract: `Lab8_Theory.pdf` or `.md`, your completed `serialize_tree.py`, and the success token from your run. Keep your completed code in your own repository; Blackboard still requires the completed code file for this lab.
